@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 ipdb = "*"
 pytest = "*"
+requests = "*"
 
 [dev-packages]
 importlib-metadata = "6.0.0"
